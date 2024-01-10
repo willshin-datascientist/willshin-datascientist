@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **willshin-datascientist/willshin-datascientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ### :alien: :flying_saucer: :love_you_gesture: Zero-zero-zero destruct zero!
+### Hi there 👋. Grab a drink, kick up your heels, play your favorite music, and enjoy the site.
