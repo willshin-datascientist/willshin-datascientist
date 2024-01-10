@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ### :alien: :flying_saucer: :love_you_gesture: Zero-zero-zero destruct zero!
-### Hi there 👋. Grab a drink, kick up your heels, play your favorite music, and enjoy the site.
+### Hi there 👋. Grab a drink :cup_with_straw:, kick up your heels :athetic_shoe:, play your favorite music :guitar:, and enjoy the site :relaxed:.
