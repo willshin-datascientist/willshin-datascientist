@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:alien: :flying_saucer: :love_you_gesture: ### Zero-zero-zero destruct zero!
+### :alien: :flying_saucer: :love_you_gesture: Zero-zero-zero destruct zero!
