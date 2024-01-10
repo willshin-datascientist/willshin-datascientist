@@ -3,4 +3,4 @@
 -->
 
 - 🔭 I’m currently working on python projects.
-- 🌱 I’m currently learning more... More... MORE!!!
+- 🌱 I’m currently learning HR analytics.
