@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### :alien: :flying_saucer: :love_you_gesture: Zero-zero-zero destruct zero!
+#### :alien: :flying_saucer: :love_you_gesture: Zero-zero-zero-destruct-zero!
 Hi there 👋
 - Grab a drink :cup_with_straw:
 - Kick up your heels :athletic_shoe:
