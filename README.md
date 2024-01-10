@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 #### :alien: :flying_saucer: :love_you_gesture: Zero-zero-zero destruct zero!
 #### Hi there 👋.
 #### - Grab a drink :cup_with_straw:.
-#### - Kick up your heels :athetic_shoe:.
+#### - Kick up your heels :athletic_shoe:.
 #### - Play your favorite music :guitar:.
 #### - And enjoy the site :relaxed:.
