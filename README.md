@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 23 years Federal Government, which includes 12 years U.S. Army.
 - 8 years data science
-- 5 years Tableau experience
+- 5 years Tableau
 - 4 years SQL
 - 3 years Python (Jupyter Notebook)
 - 3 years R / RStudio
