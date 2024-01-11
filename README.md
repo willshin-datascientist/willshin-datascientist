@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 #### :alien: :flying_saucer: :love_you_gesture: Zero-zero-zero-destruct-zero!
 
-- 12 years U.S. Army
+- 23 years Federal Government, which includes 12 years U.S. Army.
 - 8 years data science
 - 5 years Tableau experience
 - 4 years SQL
