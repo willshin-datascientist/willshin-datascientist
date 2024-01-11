@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 -->
 
 #### :alien: :flying_saucer: :love_you_gesture: Zero-zero-zero-destruct-zero!
-Hi there 👋
-- Grab a drink :cup_with_straw:
-- Kick up your heels :athletic_shoe:
-- Play your favorite music :guitar:
-- And enjoy :relaxed:
+
+- 12 years U.S. Army
+- 8 years data science
+- 5 years Tableau experience
+- 4 years SQL
+- 3 years Python (Jupyter Notebook)
+- 3 years R / RStudio
+- 2 years SAS Enterprise Miner
+- General familiarity also with AWS (Aurora, Glue, Redshift), MS SQL Server, SAS Enterprise Guide, and Toad Data Point
