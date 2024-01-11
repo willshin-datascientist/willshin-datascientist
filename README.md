@@ -18,4 +18,4 @@ Hi there 👋
 - Grab a drink :cup_with_straw:
 - Kick up your heels :athletic_shoe:
 - Play your favorite music :guitar:
-- And enjoy the site :relaxed:
+- And enjoy :relaxed:
