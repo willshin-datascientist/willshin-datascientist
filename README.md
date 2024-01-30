@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 23 years Federal Government (8 years U.S. Army and 15 years federal employee).
 - 8 years data science / data analytics / business analytics
-- 5 years Tableau
-- 5 years SQL
+- 6 years Tableau
+- 6 years SQL
 - 4 years Python (Jupyter Notebook)
-- 3 years R / RStudio
+- 4 years R / RStudio
 - 2 years SAS Enterprise Miner
