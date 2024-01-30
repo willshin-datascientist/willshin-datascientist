@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 #### :alien: :flying_saucer: :love_you_gesture: Zero-zero-zero-destruct-zero!
 
-- 23 years Federal Government, which includes 12 years U.S. Army.
+- 23 years Federal Government (8 years U.S. Army and 15 years federal employee).
 - 8 years data science / data analytics / business analytics
 - 5 years Tableau
 - 5 years SQL
