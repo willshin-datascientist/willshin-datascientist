@@ -22,7 +22,3 @@ Here are some ideas to get you started:
 - 4 years Python (Jupyter Notebook)
 - 3 years R / RStudio
 - 2 years SAS Enterprise Miner
-- AWS (Aurora, Glue, & Redshift)
-- MS SQL Server
-- SAS Enterprise Guide
-- Toad Data Point
