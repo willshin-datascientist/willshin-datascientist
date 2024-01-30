@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 #### :alien: :flying_saucer: :love_you_gesture: Zero-zero-zero-destruct-zero!
 
 - 23 years Federal Government, which includes 12 years U.S. Army.
-- 8 years data science
+- 8 years data science / data analytics / business analytics
 - 5 years Tableau
-- 4 years SQL
-- 3 years Python (Jupyter Notebook)
+- 5 years SQL
+- 4 years Python (Jupyter Notebook)
 - 3 years R / RStudio
 - 2 years SAS Enterprise Miner
 - General familiarity also with AWS (Aurora, Glue, Redshift), MS SQL Server, SAS Enterprise Guide, and Toad Data Point
