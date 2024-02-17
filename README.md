@@ -15,14 +15,9 @@ Here are some ideas to get you started:
 
 -->
 
-- Federal Government - 23 years (including 8 years U.S. Army active duty).
-- Data science / data analytics / business analytics - 8 years
-- AWS - 2 years
-- Oracle - 5 years
-- Postgresql - 2 years
-- Python - 4 years 
-- R / RStudio - 6 years
-- SAS Enterprise Miner - 2 years
-- SQL - 6 years
-- SQL Server - 2 years
-- Tableau - 6 years
+- Big Data (EDW Greenplum, Hadoop, and Oracle) - 5 years
+- Data Analysis (Python, RStudio, SAS, Tableau) - 9 years
+- Data Visualzation (Python, RStudio, Tableau) - 6 years
+- Deep Learning (Python and RStudio) - 2 years
+- Machine Learning Supervised and Unsupervised (Python and RStudio) - 4 years
+- Programming (Python, RStudio, SQL) - 9 years
