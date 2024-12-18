@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 
 -->
 
-- Big Data (EDW Greenplum, Hadoop, and Oracle) - 9 years
-- Data Analysis (Python, RStudio, SAS, and Tableau for Data Wrangling, Exploratory Data Analysis, Feature Engineering) - 9 years
-- Data Visualzation (Python, RStudio, and Tableau) - 6 years
+- Big Data (EDW Greenplum, Hadoop, and Oracle) - 3 years
+- Data Analysis (Python, RStudio, SAS, and Tableau for Data Wrangling, Exploratory Data Analysis, Feature Engineering) - 10 years
+- Data Visualzation (PowerBI, Python, RStudio, and Tableau) - 7 years
 - Deep Learning (Python and RStudio) - 2 years
 - IDE (Jupyter and RStudio) - 6 years
 - Machine Learning Supervised and Unsupervised (Python and RStudio for Classificaiton, Clustering, Dimension Reduction, Regression, Reinforcement Learning) - 4 years
-- Math (Python, RStudio, SAS, and Tableau for Linear Algebra, Calculus, and Statistics) - 9 years
-- Programming (Python, RStudio, SQL) - 9 years
+- Programming (Python, RStudio, SQL) - 10 years
